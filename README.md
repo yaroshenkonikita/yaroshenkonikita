@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visit-Counter](https://komarev.com/ghpvc/?username=tokimiki4ika&style=flat-square&color=lightgrey&label=Visits+my+profile)
+<img src="https://profile-counter.glitch.me/tokimiki4ika/count.svg" /><br>
