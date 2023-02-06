@@ -1,6 +1,6 @@
 <p align="center">
   <br><br><br>
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=800&height=150&lines=Hello+my+name+is+Nikita;"> \
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=800&height=150&lines=Hello+my+name+is+Nikita;">
     <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1000&height=150&lines=I+am+a+C/CPP/JAVA+Developer;">
   <br><br>
   <a href="https://hh.ru/resume/8c3a79feff0b930f0f0039ed1f64756d7a3151">
@@ -14,4 +14,4 @@
 
 
 ### Github Profile Views
-<!-- <img src="https://profile-counter.glitch.me/tokimiki4ika/count.svg" /> -->
+<img src="https://profile-counter.glitch.me/tokimiki4ika/count.svg" />
