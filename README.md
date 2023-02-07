@@ -1,3 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+</style>
 <p align="center">
   <span style="font-family: 'Righteous', cursive; color:grey; font-size:50px">
   Hello my name is Nikita</span>
@@ -30,6 +33,3 @@
 
 <!-- ### Github Profile Views
 <img src="https://profile-counter.glitch.me/tokimiki4ika/count.svg" /> -->
-
-<!-- style -->
-<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
