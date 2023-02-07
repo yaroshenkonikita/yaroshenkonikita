@@ -1,13 +1,17 @@
 <p align="center">
-  <br><br><br>
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=800&height=150&lines=Hello+my+name+is+Nikita;">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1000&height=150&lines=I+am+a+C/CPP/JAVA+Developer;">
+  <span style="font-family: 'Righteous', cursive; color:grey; font-size:50px">
+  Hello my name is Nikita</span>
 </p>
-<br>
+<p align="center">
+  <span style="font-family: 'Righteous', cursive; color:grey; font-size:45px">
+  I am a C/CPP/JAVA Developer</span>
+</p>
+<br><br>
+
 
 <img  width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokimiki4ika&langs_count=8&theme=material-palenight&layout=compact"> <img  width="56%" src="https://github-readme-stats.vercel.app/api?username=tokimiki4ika&show_icons=true&count_private=true&theme=nord">
 
-<br><br>
+<br>
 <p align="center" width="100%">
 
 ### Languages:
@@ -24,5 +28,8 @@
 </p>
 <br>
 
-### Github Profile Views
-<img src="https://profile-counter.glitch.me/tokimiki4ika/count.svg" />
+<!-- ### Github Profile Views
+<img src="https://profile-counter.glitch.me/tokimiki4ika/count.svg" /> -->
+
+<!-- style -->
+<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
