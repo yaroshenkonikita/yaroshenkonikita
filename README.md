@@ -1,14 +1,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
-<p align="center">
-  <span style="font-family: 'Righteous', cursive; color:grey; font-size:50px">
-  Hello my name is Nikita</span>
-</p>
-<p align="center">
-  <span style="font-family: 'Righteous', cursive; color:grey; font-size:45px">
-  I am a C/CPP/JAVA Developer</span>
-</p>
+<span style="font-family: 'Righteous', cursive; color:grey; font-size:50px" align="center">
+Hello my name is Nikita</span>
+<br>
+<span style="font-family: 'Righteous', cursive; color:grey; font-size:45px" align="center">
+I am a C/CPP/JAVA Developer</span>
 <br><br>
 
 
