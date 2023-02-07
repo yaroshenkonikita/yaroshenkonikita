@@ -1,11 +1,8 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
-<span style="font-family: 'Righteous', cursive; color:grey; font-size:50px" align="center">
-Hello my name is Nikita</span>
-<br>
-<span style="font-family: 'Righteous', cursive; color:grey; font-size:45px" align="center">
-I am a C/CPP/JAVA Developer</span>
+<p align="center">
+  <br><br><br>
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=800&height=150&lines=Hello+my+name+is+Nikita;">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1000&height=150&lines=I+am+a+C/CPP/JAVA+Developer;">
+</p>
 <br><br>
 
 
