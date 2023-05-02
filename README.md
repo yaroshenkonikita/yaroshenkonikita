@@ -10,14 +10,6 @@
 
 <br>
 <p align="center" width="100%">
-
-### Social:
-
-  <a href="https://hh.ru/resume/8c3a79feff0b930f0f0039ed1f64756d7a3151">
-    <img height="50px" src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w=w240-h480-rw" title="HeadHunter"></a> <a href="https://t.me/tokimikichika"><img height="50px" src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw" title="Telegram"></a> <a href="mailto:yaroshenkonikita4@gmail.com"><img height="50px" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" title="Mail">
-  </a>
-</p>
-<br>
 ### Languages:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -38,6 +30,15 @@
   
 ### Leet Code:
   [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark">](https://leetcode.com/tokimikichika/)
+  
+  
+### Social:
+
+  <a href="https://hh.ru/resume/8c3a79feff0b930f0f0039ed1f64756d7a3151">
+    <img height="50px" src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w=w240-h480-rw" title="HeadHunter"></a> <a href="https://t.me/tokimikichika"><img height="50px" src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw" title="Telegram"></a> <a href="mailto:yaroshenkonikita4@gmail.com"><img height="50px" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" title="Mail">
+  </a>
+</p>
+<br>
 <!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark)](https://leetcode.com/tokimikichika/) -->
 <br><br>
 
