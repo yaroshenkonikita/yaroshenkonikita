@@ -32,6 +32,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0078d7.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-3D9E7D?style=for-the-badge&logo=clion&logoColor=white)
+![Gtest](https://img.shields.io/badge/GTest%20-%23F05033.svg?&style=for-the-badge&logo=Google&logoColor=black)
 <br>
   
 ### Leet Code:
