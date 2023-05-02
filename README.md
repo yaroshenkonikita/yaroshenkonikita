@@ -31,7 +31,8 @@
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![XML](https://img.shields.io/static/v1?style=for-the-badge&message=XML&color=000000&logo=XML&logoColor=FFFFFF&label=)
 <br>
-[![LeetCode-stats](https://leetcode-stats-six.vercel.app/api?username=tokimikichika9858&theme=dark)](https://github.com/tokimiki4ika/leetcode-stats)<br><br>
+![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark)
+<br><br>
 ### Social:
 
   <a href="https://hh.ru/resume/8c3a79feff0b930f0f0039ed1f64756d7a3151">
