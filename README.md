@@ -31,7 +31,7 @@
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![XML](https://img.shields.io/static/v1?style=for-the-badge&message=XML&color=000000&logo=XML&logoColor=FFFFFF&label=)
 <br>
-![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark)](https://leetcode.com/tokimikichika/)
 <br><br>
 ### Social:
 
