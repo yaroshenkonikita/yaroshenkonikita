@@ -33,6 +33,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-3D9E7D?style=for-the-badge&logo=clion&logoColor=white)
 ![Gtest](https://img.shields.io/badge/GTest%20-%23000000.svg?&style=for-the-badge&logo=Google&logoColor=white)
+![Docker](https://img.shields.io/badge/PQXX-0078d7.svg?&style=for-the-badge&logo=SQL&logoColor=white)
 <br>
   
 ### Leet Code:
