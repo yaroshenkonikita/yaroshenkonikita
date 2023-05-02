@@ -21,17 +21,17 @@
 
 ### Tools:
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
-![QT](https://img.shields.io/badge/QT-%2311AB00.svg?style=for-the-badge&logo=qt&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-3D9E7D?style=for-the-badge&logo=clion&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0078d7.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-36A215.svg?style=for-the-badge&logo=linux&logoColor=white)
+![QT](https://img.shields.io/badge/QT-%2311AB00.svg?style=for-the-badge&logo=qt&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0078d7.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0078d7.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
-![XML](https://img.shields.io/static/v1?style=for-the-badge&message=XML&color=000000&logo=XML&logoColor=FFFFFF&label=)
+![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-3D9E7D?style=for-the-badge&logo=clion&logoColor=white)
 <br>
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark)](https://leetcode.com/tokimikichika/)
+  
+### Leet Code:
+  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark">](https://leetcode.com/tokimikichika/)
+<!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark)](https://leetcode.com/tokimikichika/) -->
 <br><br>
 ### Social:
 
