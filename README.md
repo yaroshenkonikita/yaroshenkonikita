@@ -6,7 +6,7 @@
 <br><br>
 
 
-<img  width="38%" high src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokimiki4ika&langs_count=8&theme=material-palenight&layout=compact"> <img  width="58%" src="https://github-readme-stats.vercel.app/api?username=tokimiki4ika&show_icons=true&count_private=true&theme=nord">
+<img  width="38%" high src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroshenkonikita&langs_count=8&theme=material-palenight&layout=compact"> <img  width="58%" src="https://github-readme-stats.vercel.app/api?username=yaroshenkonikita&show_icons=true&count_private=true&theme=nord">
 
 <br><br>
 ### Social:
@@ -37,11 +37,7 @@
   
 ### Leet Code:
   [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark">](https://leetcode.com/tokimikichika/)
-  
- 
-<!-- <br> -->
-<!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark)](https://leetcode.com/tokimikichika/) -->
-<!-- <br><br> -->
+
 
 <!-- ### Github Profile Views
 <img src="https://profile-counter.glitch.me/tokimiki4ika/count.svg" /> -->
