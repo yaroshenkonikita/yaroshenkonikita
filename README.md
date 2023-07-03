@@ -36,7 +36,7 @@
 <br>
   
 ### Leet Code:
-  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=yaroshenkonikita&theme=dark">](https://leetcode.com/yaroshenkonikita/)
+  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=tokimikichika&theme=dark">](https://leetcode.com/tokimikichika/)
 
 
 <!-- ### Github Profile Views
