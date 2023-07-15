@@ -1,2 +1,2 @@
 ### Leet Code:
-  [<img  width="95%" high src="https://leetcode-stats-six.vercel.app/api?username=yaroshenkonikita&theme=dark">](https://leetcode.com/yaroshenkonikita/)
+  [<img  width="95%" high src="https://leetcard.jacoblin.cool/yaroshenkonikita?theme=dark">](https://leetcode.com/yaroshenkonikita/)
